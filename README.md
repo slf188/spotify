@@ -15,7 +15,7 @@ Stack Web
 
 ### Demo
 
-[img.png](img.png)
+![img.png](img.png)
 
 [⚡](https://stackblitz.com/~/github.com/slf188/spotify)
 
