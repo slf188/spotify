@@ -7,11 +7,14 @@ Este repositorio contiene un clon de la aplicación web de Spotify. Está constr
 
 ### Lenguajes de Programación Utilizados
 
-TypeScript: 81.8%
-JavaScript: 10%
-CSS: 4.5%
-HTML: 3.7%
-Stack Web
+- **TypeScript**: 81.8%
+
+- **JavaScript**: 10%
+
+- **CSS**: 4.5%
+
+- **HTML**: 3.7%
+
 
 ### Demo
 
@@ -21,15 +24,15 @@ Stack Web
 
 ### Tecnologías y bibliotecas
 
-React: Una biblioteca de JavaScript para construir interfaces de usuario.
+- **React**: Una biblioteca de JavaScript para construir interfaces de usuario.
 
-Vite: Una herramienta de construcción que ofrece una experiencia de desarrollo más rápida y ligera para proyectos web modernos.
+- **Vite**: Una herramienta de construcción que ofrece una experiencia de desarrollo más rápida y ligera para proyectos web modernos.
 
-Tailwind CSS: Un framework CSS de utilidad primero para el desarrollo rápido de UI.
+- **Tailwind CSS**: Un framework CSS de utilidad primero para el desarrollo rápido de UI.
 
-ESLint: Una herramienta para identificar y solucionar problemas en el código JavaScript.
+- **ESLint**: Una herramienta para identificar y solucionar problemas en el código JavaScript.
 
-TypeScript: Un superconjunto tipado de JavaScript que se compila a JavaScript puro.
+- **TypeScript**: Un superconjunto tipado de JavaScript que se compila a JavaScript puro.
 
 ### Licencia
 [LICENSE](LICENSE)
